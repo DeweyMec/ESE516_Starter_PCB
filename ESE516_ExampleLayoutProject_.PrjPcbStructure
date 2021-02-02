@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=MAIN.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_6v_BOOST|SchDesignator=U_6v_BOOST|FileName=6v_BOOST.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=6v_BOOST.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_FTDI|SchDesignator=U_FTDI|FileName=FTDI.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=FTDI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_LiPo_Charger|SchDesignator=U_LiPo_Charger|FileName=LiPo_Charger.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=LiPo_Charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN.SchDoc|Designator=U_Memory|SchDesignator=U_Memory|FileName=Memory.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=3V3_BUCK.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=6V Boost - High Current.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=MAIN.SchDoc|FileName=CommonComponents.SchDoc|SheetNumber= 
